@@ -52,21 +52,5 @@ You can choose a basic LLM and start simulation in one line:
 python main.py --model MODEL_NAME
 ```
 
-We set gemini-pro for default LLM.
-
-#### About ’procoder‘
-
-Here we use the: https://github.com/dhh1995/PromptCoder.git this tool, please download after its installation.
-
-#### Citation
-If you find the code is valuable, please use this citation.
-```
-@article{zhang2024ai,
-  title={When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments},
-  author={Zhang, Chong and Liu, Xinyi and Jin, Mingyu and Zhang, Zhongmou and Li, Lingyao and Wang, Zhengting and Hua, Wenyue and Shu, Dong and Zhu, Suiyuan and Jin, Xiaobo and others},
-  journal={arXiv preprint arXiv:2407.18957},
-  year={2024}
-}
-```
 
 
